@@ -63,11 +63,11 @@
       39,
       40
     ],
-    "visible_layers": "8103020_ffffffff",
+    "visible_layers": "810b000_7fffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "STMF103_Peripheral_Controller.kicad_prl",
+    "filename": "STMF103_Peripheral_Controller_0.1.kicad_prl",
     "version": 3
   },
   "project": {
