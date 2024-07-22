@@ -8351,7 +8351,7 @@
 			(pintype "passive")
 			(uuid "ca857f92-9ca2-4536-8493-14900cd9a811")
 		)
-		(model "${KIPRJMOD}/evpaa602w.stp"
+		(model "${KIPRJMOD}/step3d/evpaa602w.stp"
 			(offset
 				(xyz 1.5 -1 1.5)
 			)
@@ -9033,7 +9033,7 @@
 			(solder_mask_margin 0.075)
 			(uuid "9e27bac8-1737-481c-a251-7de0dc6a184a")
 		)
-		(model "${KIPRJMOD}/10155435-00011LF--3DModel-STEP-510211.STEP"
+		(model "${KIPRJMOD}/step3d/10155435-00011LF--3DModel-STEP-510211.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14628,7 +14628,7 @@
 			(pintype "passive")
 			(uuid "802a8735-ef20-4dae-a935-7145dab903b0")
 		)
-		(model "${KIPRJMOD}/evpaa602w.stp"
+		(model "${KIPRJMOD}/step3d/evpaa602w.stp"
 			(offset
 				(xyz 1.5 -1 1.5)
 			)
